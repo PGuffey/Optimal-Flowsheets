@@ -1,0 +1,94 @@
+Course Title,Credits,Prerequisites,Concurrent Enrollment
+CSCI 1010 - Introduction to Computer Science: Principles,Credit(s): 3 Credits,NaN,NaN
+CSCI 1020 - Introduction to Computer Science: Bioinformatics,Credit(s): 3 Credits,NaN,NaN
+CSCI 1025 - Introduction to Computer Science: Cybersecurity,Credit(s): 3 Credits,NaN,NaN
+CSCI 1030 - Introduction to Computer Science: Game Design,Credit(s): 3 Credits,NaN,NaN
+CSCI 1040 - Introduction to Computer Science: Mobile Computing,Credit(s): 3 Credits,NaN,NaN
+CSCI 1050 - Introduction to Computer Science: Multimedia,Credit(s): 3 Credits,NaN,NaN
+CSCI 1060 - Introduction to Computer Science: Scientific Programming,Credit(s): 3 Credits,"MATH 1510, MATH 1320, MATH 1520, MATH 2530",Concurrent enrollment allowed.
+CSCI 1070 - Introduction to Computer Science: Taming Big Data,Credit(s): 3 Credits,NaN,NaN
+CSCI 1080 - Introduction to Computer Science: World Wide Web,Credit(s): 3 Credits,NaN,NaN
+CSCI 1090 - Introduction to Computer Science: Special Topics,Credit(s): 3 Credits (Repeatable for credit),NaN,NaN
+CSCI 1300 - Introduction to Object-Oriented Programming,Credit(s): 4 Credits,"CSCI 1010, BME 2000, CVNG 1500, MATH 3850, STAT 3850, ECE 1001, GIS 4090, MATH 1200, MATH 1320",NaN
+CSCI 1930 - Special Topics,Credit(s): 1-4 Credits (Repeatable for credit),NaN,NaN
+CSCI 1980 - Independent Study,Credit(s): 1-3 Credits (Repeatable for credit),NaN,NaN
+CSCI 2050 - Computer Ethics,Credit(s): 3 Credits,PHIL 2050,NaN
+CSCI 2100 - Data Structures,Credit(s): 4 Credits,"CSCI 1300, MATH 1660",Concurrent enrollment allowed.
+CSCI 2190 - Computational Problem Solving,Credit(s): 1 Credit,CSCI 2100,NaN
+CSCI 2300 - Object-Oriented Software Design,Credit(s): 3 Credits,CSCI 2100,NaN
+CSCI 2500 - Computer Organization and Systems,Credit(s): 3 Credits,CSCI 2100,Concurrent enrollment allowed.
+CSCI 2510 - Principles of Computing Systems,Credit(s): 3 Credits,"CSCI 2500, ECE 2205, ECE 3217, ECE 3225",NaN
+CSCI 2930 - Special Topics,Credit(s): 1-4 Credits (Repeatable for credit),NaN,NaN
+CSCI 2980 - Independent Study,Credit(s): 1-3 Credits (Repeatable for credit),NaN,NaN
+CSCI 3050 - Computer Ethics,Credit(s): 3 Credits,PHIL 2050,NaN
+CSCI 3100 - Algorithms,Credit(s): 3 Credits,"CSCI 2100, MATH 1660, MATH 1510, MATH 1520, MATH 2530",NaN
+CSCI 3200 - Programming Languages,Credit(s): 3 Credits,CSCI 2300,NaN
+CSCI 3250 - Compilers,Credit(s): 3 Credits,"ECE 3217, CSCI 2100",NaN
+CSCI 3300 - Software Engineering,Credit(s): 3 Credits,CSCI 2300,NaN
+CSCI 3450X - Microprocessors,Credit(s): 3 Credits,NaN,NaN
+CSCI 3451X - Microprocessors Laboratory,Credit(s): 1 Credit,NaN,NaN
+CSCI 3500 - Operating Systems,Credit(s): 3 Credits,"CSCI 2100, ECE 3217",NaN
+CSCI 3710 - Databases,Credit(s): 3 Credits,CSCI 2100,NaN
+CSCI 3910 - Internship with Industry,Credit(s): 1-6 Credits (Repeatable for credit),NaN,NaN
+CSCI 3930 - Special Topics,Credit(s): 1-4 Credits (Repeatable for credit),NaN,NaN
+CSCI 3980 - Independent Study,Credit(s): 1-3 Credits (Repeatable for credit),NaN,NaN
+CSCI 4120 - Advanced Data Structures,Credit(s): 3 Credits,CSCI 3100,NaN
+CSCI 4310 - Software Architecture,Credit(s): 3 Credits,CSCI 3300,NaN
+CSCI 4360 - Web Technologies,Credit(s): 3 Credits,CSCI 2300,NaN
+CSCI 4500 - Advanced Operating Systems,Credit(s): 3 Credits,CSCI 2510,NaN
+CSCI 4530 - Computer Security,Credit(s): 3 Credits,"CSCI 2510, CSCI 3500",NaN
+CSCI 4550 - Computer Networks,Credit(s): 3 Credits,"CSCI 2510, CSCI 3500",NaN
+CSCI 4610 - Concurrent and Parallel Programming,Credit(s): 3 Credits,"CSCI 2510, CSCI 3500",NaN
+CSCI 4620 - Distributed Computing,Credit(s): 3 Credits,CSCI 2510,NaN
+CSCI 4710 - Databases,Credit(s): 3 Credits,CSCI 2100,NaN
+CSCI 4740 - Artificial Intelligence,Credit(s): 3 Credits,CSCI 2100,NaN
+CSCI 4750 - Machine Learning,Credit(s): 3 Credits,"STAT 3850, CSCI 2100, MATH 2530",NaN
+CSCI 4760 - Deep Learning,Credit(s): 3 Credits,CSCI 4750,NaN
+CSCI 4820 - Computer Graphics,Credit(s): 3 Credits,"CSCI 2100, MATH 2530, MATH 3110, MATH 3120",NaN
+CSCI 4830 - Computer Vision,Credit(s): 3 Credits,CSCI 2100,NaN
+CSCI 4845 - Natural Language Processing,Credit(s): 3 Credits,CSCI 4750,NaN
+CSCI 4910 - Internship with Industry,Credit(s): 1-6 Credits (Repeatable for credit),NaN,NaN
+CSCI 4930 - Special Topics,Credit(s): 1-4 Credits (Repeatable for credit),NaN,NaN
+CSCI 4961 - Capstone Project I,Credit(s): 2 Credits,CSCI 2510,NaN
+CSCI 4962 - Capstone Project II,Credit(s): 2 Credits,CSCI 4961,NaN
+CSCI 4980 - Advanced Independent Study,Credit(s): 1-6 Credits (Repeatable for credit),NaN,NaN
+CSCI 5001 - Object-Oriented Programming,Credit(s): 3 Credits,NaN,NaN
+CSCI 5002 - Data Structures,Credit(s): 3 Credits,CSCI 5001,NaN
+CSCI 5003 - Object-Oriented Software Design,Credit(s): 3 Credits,CSCI 5002,NaN
+CSCI 5004 - Introduction to Algorithms,Credit(s): 3 Credits,CSCI 5002,NaN
+CSCI 5005 - Intro to Operating Systems,Credit(s): 3 Credits,CSCI 5002,NaN
+CSCI 5030 - Principles of Software Development,Credit(s): 3 Credits,NaN,NaN
+CSCI 5050 - Computing and Society,Credit(s): 3 Credits,NaN,NaN
+CSCI 5070 - Algorithmic Fairness,Credit(s): 3 Credits,CSCI 5750,NaN
+CSCI 5090 - Computer Science Colloquium,Credit(s): 0-1 Credits (Repeatable for credit),NaN,NaN
+CSCI 5100 - Algorithms,Credit(s): 3 Credits,NaN,NaN
+CSCI 5120 - Advanced Data Structures,Credit(s): 3 Credits,NaN,NaN
+CSCI 5150 - Computational Geometry,Credit(s): 3 Credits,NaN,NaN
+CSCI 5200 - Programming Languages,Credit(s): 3 Credits,CSCI 5030,NaN
+CSCI 5250 - Compilers,Credit(s): 3 Credits,CSCI 5030,NaN
+CSCI 5300 - Software Engineering,Credit(s): 3 Credits,CSCI 5030,NaN
+CSCI 5310 - Software Architecture,Credit(s): 3 Credits,CSCI 5300,NaN
+CSCI 5330 - Software Quality Assurance,Credit(s): 3 Credits,CSCI 5300,NaN
+CSCI 5360 - Web Technologies,Credit(s): 3 Credits,CSCI 5030,NaN
+CSCI 5500 - Operating Systems,Credit(s): 3 Credits,NaN,NaN
+CSCI 5530 - Computer Security,Credit(s): 3 Credits,NaN,NaN
+CSCI 5550 - Computer Networks,Credit(s): 3 Credits,NaN,NaN
+CSCI 5570 - Machine Learning for Networks,Credit(s): 3 Credits,CSCI 5550,NaN
+CSCI 5610 - Concurrent and Parallel Programming,Credit(s): 3 Credits,NaN,NaN
+CSCI 5620 - Distributed Computing,Credit(s): 3 Credits,NaN,NaN
+CSCI 5710 - Databases,Credit(s): 3 Credits,NaN,NaN
+CSCI 5730 - Evolutionary Computation,Credit(s): 3 Credits,NaN,NaN
+CSCI 5740 - Introduction to Artificial Intelligence,Credit(s): 3 Credits,NaN,NaN
+CSCI 5745 - Advanced Techniques in Artificial Intelligence,Credit(s): 3 Credits,CSCI 5740,NaN
+CSCI 5750 - Introduction to Machine Learning,Credit(s): 3 Credits,NaN,NaN
+CSCI 5760 - Deep Learning,Credit(s): 3 Credits,CSCI 5750,NaN
+CSCI 5830 - Computer Vision,Credit(s): 3 Credits,NaN,NaN
+CSCI 5845 - Natural Language Processing,Credit(s): 3 Credits,CSCI 5750,NaN
+CSCI 5910 - Internship with Industry,Credit(s): 1-3 Credits (Repeatable for credit),NaN,NaN
+CSCI 5930 - Special Topics,Credit(s): 1-3 Credits (Repeatable up to 12 credits),NaN,NaN
+CSCI 5960 - Software Engineering Capstone Project,Credit(s): 3 Credits,CSCI 5300,NaN
+CSCI 5961 - Artificial Intelligence Capstone Project,Credit(s): 3 Credits,"CSCI 5740, CSCI 5750",NaN
+CSCI 5970 - Research Topics,Credit(s): 1-3 Credits (Repeatable for credit),NaN,NaN
+CSCI 5980 - Graduate Reading Course,Credit(s): 1-3 Credits (Repeatable up to 9 credits),NaN,NaN
+CSCI 5990 - Thesis Research,Credit(s): 0-6 Credits (Repeatable for credit),NaN,NaN
+CSCI 6990 - Dissertation Research,Credit(s): 0-6 Credits (Repeatable for credit),NaN,NaN
